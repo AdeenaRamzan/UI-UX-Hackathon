@@ -12,7 +12,7 @@ export default function Aboutus() {
             <Image
               className="object-cover object-center w-336px h-536px mt-530px ml-300px radius-6px"
               alt="hero"
-              src= "/about1.png" width={500} height={300} 
+              src= "/about1.png" width={309} height={536} 
             />
           </div>
           {/* Right Images */}
